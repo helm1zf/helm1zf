@@ -39,4 +39,4 @@ M.Sc. Business Information Systems student focused on bridging the gap between c
 ---
 
 ### 📊 My Engineering Metrics
-![Helmi's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Helmi's Stats](https://github-readme-stats.vercel.app/api?username=helm1zf&show_icons=true&theme=tokyonight)
