@@ -39,13 +39,13 @@ ML models for customer retention, and ERP processes in SAP S/4HANA. Currently lo
 
 ### 🌟 Selected projects
 
-**🚛 Intelligent Route Optimizer** · *Bachelor thesis, grade 1.3*
+**🚛 Intelligent Route Optimizer** · *Bachelor thesis, grade 1.3*<br>
 Modeled supply chain networks in **Neo4j** and implemented graph-based routing to quantify CO2 savings in logistics.
 
-**📊 Predictive Customer Churn Engine** · *Trier University, grade 1.3*
+**📊 Predictive Customer Churn Engine** · *Trier University, grade 1.3*<br>
 End-to-end ML pipeline in **Python**: data cleaning, feature engineering and model evaluation for retention strategies.
 
-**🛣️ [Road Condition Reporting Platform](https://github.com/arnob32/dmsa-sose26-backDoor)** · *Team project, FH Dortmund*
+**🛣️ [Road Condition Reporting Platform](https://github.com/arnob32/dmsa-sose26-backDoor)** · *Team project, FH Dortmund*<br>
 **Spring Boot** microservices system for reporting road issues; I built the IssueReport service.
 
 ---
